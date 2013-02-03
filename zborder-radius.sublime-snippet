@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[-webkit-border-radius: ${1:}px;
--moz-border-radius: ${2:}px; 
-border-radius: ${3:}px;]]></content>
+-moz-border-radius: ${1:}px; 
+border-radius: ${1:}px;]]></content>
 	<tabTrigger>zborder-radius</tabTrigger>
 	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
 </snippet>
