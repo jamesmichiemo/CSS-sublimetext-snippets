@@ -17,6 +17,7 @@ The following commands will activate with the use of the tab button. Every comma
 
 * zborder-radius
 * zborder-top-left-radius
+* zborder-top-right-radius
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
