@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-box-shadow: ${1:} ${2:}px ${3:}px ${4:}px #${5:}; 
+-moz-box-shadow: ${1:} ${2:}px ${3:}px ${4:}px #${5:};
+box-shadow: ${1:} ${2:}px ${3:}px ${4:}px #${5:};
+]]></content>
+	<tabTrigger>zbox-shadow</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
