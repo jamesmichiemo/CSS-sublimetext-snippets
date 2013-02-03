@@ -3,5 +3,5 @@
 -moz-border-radius: ${2:}px; 
 border-radius: ${3:}px;]]></content>
 	<tabTrigger>zborder-radius</tabTrigger>
-	<scope>source.css</scope>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
 </snippet>
