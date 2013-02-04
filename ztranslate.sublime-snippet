@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-transform: translate(${1:}px, ${2:}%);
+-moz-transform: translate(${1:}px, ${2:}%);
+transform: translate(${1:}px, ${2:}%);  
+]]></content>
+	<tabTrigger>ztranslate</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
