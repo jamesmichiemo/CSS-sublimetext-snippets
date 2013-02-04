@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-transform: skew(${1:30}deg,${2:-10}deg);
+-moz-transform: skew(${1:30}deg,${2:-10}deg);
+transform: skew(${1:30}deg,${2:-10}deg);  
+]]></content>
+	<tabTrigger>zskew</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
