@@ -22,6 +22,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zborder-bottom-right-radius
 * zbox-shadow
 * ztext-shadow
+* zscale
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
