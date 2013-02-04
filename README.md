@@ -23,6 +23,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zbox-shadow
 * ztext-shadow
 * zscale
+* zrotate
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
