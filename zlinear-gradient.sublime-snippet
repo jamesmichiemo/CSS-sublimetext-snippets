@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-gradient(linear, ${1:left center}, ${2:right center}, from(${4:#A4B183}), to(${5:#C2D19B}));
+-moz-linear-gradient(${3:left}, ${4:#A4B183}, ${5:#C2D19B});
+linear-gradient(${4:#A4B183}, ${5:#C2D19B});  
+]]></content>
+	<tabTrigger>zlinear-gradient</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
