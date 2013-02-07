@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-gradient(radial, ${1:center center}, ${2:0}, ${3:center center}, ${4:70.5}, from(${5:#A4B183}), to(${6:#C2D19B}));
+-moz-radial-gradient(${4:#A4B183}, ${5:#C2D19B});
+linear-gradient(${1:center center}${4:#A4B183}, ${5:#C2D19B});  
+]]></content>
+	<tabTrigger>zradial-gradient</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
