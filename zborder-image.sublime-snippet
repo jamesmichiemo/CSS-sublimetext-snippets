@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-border-image: url('${1:button.png}') ${2:0} ${3:5} ${4:0} ${5:5} ${6:stretch/round/repeat} ${7:stretch/round/repeat};
+		-webkit-border-image: url('${1:button.png}') ${2:0} ${3:5} ${4:0} ${5:5} ${6:stretch/round/repeat} ${7:stretch/round/repeat};
+		border-width: ${2:0} ${3:5} ${4:0} ${5:5};
+]]></content>
+	<tabTrigger>zborder-image</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

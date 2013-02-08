@@ -30,6 +30,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zlinear-gradient
 * zradial-gradient
 * z@font-face
+* zborder-image
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
