@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[@font-face { 
+     font-family: “${1:Font_Family}”; 
+     src: url(“${2:file_path}”); 
+     format(“${3:font_type}”); 
+}
+]]></content>
+	<tabTrigger>z@fontface</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
