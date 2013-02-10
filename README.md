@@ -15,6 +15,8 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 
 ### Z-Snippet Command List ###
 
+* z@font-face
+* zborder-image
 * zborder-radius
 * zborder-top-left-radius
 * zborder-top-right-radius
@@ -29,8 +31,6 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * ztransition
 * zlinear-gradient
 * zradial-gradient
-* z@font-face
-* zborder-image
 * zbox-reflect
 
 ## License
