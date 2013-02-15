@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[#${1:content} {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+    /*css-tricks 2012*/
+}
+]]></content>
+	<tabTrigger>zhiding</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
