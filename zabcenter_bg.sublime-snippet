@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[html { 
+   width:100%; 
+   height:100%; 
+   background:url(${1:logo.png}) center center no-repeat;
+   /*css-tricks 2009*/
+}
+]]></content>
+	<tabTrigger>zabsolute-center_background</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
