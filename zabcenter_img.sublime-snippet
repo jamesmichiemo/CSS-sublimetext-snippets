@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
+}
+]]></content>
+	<tabTrigger>zabsolute-center_img</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

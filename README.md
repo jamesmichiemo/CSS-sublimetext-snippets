@@ -34,7 +34,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zbox-reflect
 * [zstitched](http://css-tricks.com/snippets/css/stitched-look/)
 * [zabsolute-center_background](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
-* 
+* [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
