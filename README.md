@@ -16,26 +16,27 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 ### Z-Snippet Command List ###
 
 * z@font-face
+* [zabsolute-center_background](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
+* [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
+* zbackground
+* zborder-bottom-left-radius
+* zborder-bottom-right-radius
 * zborder-image
 * zborder-radius
 * zborder-top-left-radius
 * zborder-top-right-radius
-* zborder-bottom-left-radius
-* zborder-bottom-right-radius
+* zbox-reflect
 * zbox-shadow
-* ztext-shadow
-* zscale
-* zrotate
-* zskew
-* ztranslate
-* ztransition
+* [zhiding](http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/)
 * zlinear-gradient
 * zradial-gradient
-* zbox-reflect
+* zrotate
+* zscale
+* zskew
 * [zstitched](http://css-tricks.com/snippets/css/stitched-look/)
-* [zabsolute-center_background](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
-* [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
-* [zhiding](http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/)
+* ztext-shadow
+* ztransition
+* ztranslate
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
