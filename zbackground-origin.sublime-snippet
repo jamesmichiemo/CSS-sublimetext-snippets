@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[background-origin: ${1:padding-box};  
+]]></content>
+	<tabTrigger>zbackground-origin</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
