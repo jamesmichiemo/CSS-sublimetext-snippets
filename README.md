@@ -19,6 +19,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * [zabsolute-center_background](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
 * [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
 * zbackground
+* zbackground-clip
 * zbackground-origin
 * zbackground-size
 * zborder-bottom-left-radius
