@@ -32,6 +32,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zbox-shadow
 * [zhiding](http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/)
 * zlinear-gradient
+* [zlink-rollover](http://css-tricks.com/snippets/css/basic-link-rollover-as-css-sprite/)
 * zradial-gradient
 * zrotate
 * zscale
