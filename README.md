@@ -35,12 +35,15 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * [zlink-rollover](http://css-tricks.com/snippets/css/basic-link-rollover-as-css-sprite/)
 * zradial-gradient
 * zrotate
+* zrotatex
+* zrotatey
 * zscale
 * zskew
 * [zstitched](http://css-tricks.com/snippets/css/stitched-look/)
 * ztext-shadow
 * ztransition
 * ztranslate
+* ztranslate3d
 
 ## License
 MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
