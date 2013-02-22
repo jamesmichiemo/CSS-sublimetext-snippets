@@ -38,6 +38,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zrotatex
 * zrotatey
 * zscale
+* zscale3d
 * zskew
 * [zstitched](http://css-tricks.com/snippets/css/stitched-look/)
 * ztext-shadow
