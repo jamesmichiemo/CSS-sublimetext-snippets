@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[rotateY(${1:}deg)${2:/*used within the transform property*/}
 ]]></content>
-	<tabTrigger>zrotateY</tabTrigger>
+	<tabTrigger>zrotatey</tabTrigger>
 	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
 </snippet>
