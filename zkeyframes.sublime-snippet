@@ -25,6 +25,18 @@
 		transform: ${3:};
 	}
 }
+
+${6:selector} {
+	-webkit-animation-name: ${1:animation-name};
+	-moz-animation-name: ${1:animation-name};
+	animation-name: ${1:animation-name};
+	-webkit-animation-duration: ${4:}s;
+	-moz-animation-duration: ${4:}s;
+	animation-duration: ${4:}s;
+	-webkit-animation-iteration-count: ${5:infinite};
+	-moz-animation-iteration-count: ${5:infinite};
+	animation-iteration-count: ${5:infinite};
+}
 ]]></content>
 	<tabTrigger>zkeyframes</tabTrigger>
 	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
