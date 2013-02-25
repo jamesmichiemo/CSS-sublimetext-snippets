@@ -1,6 +1,5 @@
 <snippet>
-	<content><![CDATA[-webkit-transform: rotateZ(${1:}deg);
-}
+	<content><![CDATA[rotateZ(${1:}deg)${2:/*used within the transform property*/}
 ]]></content>
 	<tabTrigger>zrotatez</tabTrigger>
 	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
