@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[-webkit-transform: scale3d(${1:} ${2:} ${3:});
-/*1:x-axis 2:y:axis 3:zaxis*/
-}
+	<content><![CDATA[scale3d(${1:x} ${2:y} ${3:z})${4:/*used within the -webkit-transform property only*/}
 ]]></content>
 	<tabTrigger>zscale3d</tabTrigger>
 	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
