@@ -1,7 +1,5 @@
 <snippet>
-	<content><![CDATA[-webkit-transform: translate3d(${1:}px ${2:}px ${3:}px);
-}
-/*1:x-axis 2:y-axis 3:z-axis*/
+	<content><![CDATA[translate3d(${1:x}px ${2:y}px ${3:z}px)${4:/*used within the transform property*/}
 ]]></content>
 	<tabTrigger>ztranslate3d</tabTrigger>
 	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
