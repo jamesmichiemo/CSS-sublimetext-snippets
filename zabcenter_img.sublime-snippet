@@ -7,7 +7,7 @@
    height: 500px;
    margin-top: -250px; /* Half the height */
    margin-left: -250px; /* Half the width */
-   /*css-tricks 2012*/
+   ${1:/*Absolute Center an Image using an inline image; css-tricks 2009*/}
 }
 ]]></content>
 	<tabTrigger>zabsolute-center_img</tabTrigger>
