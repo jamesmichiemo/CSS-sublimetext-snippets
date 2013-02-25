@@ -15,10 +15,10 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 
 ### Z-Snippet Command List ###
 
-* z@font-face
+* [z@font-face](https://developer.mozilla.org/en-US/docs/CSS/@font-face)
 * [zabsolute-center_background](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
 * [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
-* zbackground
+* [zbackground](https://developer.mozilla.org/en-US/docs/CSS/background)
 * zbackground-clip
 * zbackground-origin
 * zbackground-size
@@ -31,6 +31,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zbox-reflect
 * zbox-shadow
 * [zhiding](http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/)
+* [zkeyframes](https://developer.mozilla.org/en-US/docs/CSS/@keyframes)
 * zlinear-gradient
 * [zlink-rollover](http://css-tricks.com/snippets/css/basic-link-rollover-as-css-sprite/)
 * zradial-gradient

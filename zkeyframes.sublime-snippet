@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[@-webkit-keyframes ${1:animation-name} {
+	from {
+		-webkit-transform: ${2:};
+	}
+	to {
+		-webkit-transform: ${3:};
+	}
+} 
+
+@-moz-keyframes ${1:animation-name} {
+	from {
+		-moz-transform: ${2:};
+	}
+	to {
+		-moz-transform: ${3:};
+	}
+}
+
+@keyframes ${1:animation-name} {
+	from {
+		transform: ${2:};
+	}
+	to {
+		transform: ${3:};
+	}
+}
+]]></content>
+	<tabTrigger>zkeyframes</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
