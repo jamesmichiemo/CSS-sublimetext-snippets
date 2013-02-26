@@ -26,16 +26,10 @@
 	}
 }
 
-${6:selector} {
-	-webkit-animation-name: ${1:animation-name};
-	-moz-animation-name: ${1:animation-name};
-	animation-name: ${1:animation-name};
-	-webkit-animation-duration: ${4:}s;
-	-moz-animation-duration: ${4:}s;
-	animation-duration: ${4:}s;
-	-webkit-animation-iteration-count: ${5:infinite};
-	-moz-animation-iteration-count: ${5:infinite};
-	animation-iteration-count: ${5:infinite};
+${9:selector} {
+	-webkit-animation: ${1:animation-name} ${4:duration}s ${5:timing-function} ${6:delay}s ${7:iteration-count} ${8:direction};
+	-moz-animation: ${1:animation-name} ${4:duration}s ${5:timing-function} ${6:delay}s ${7:iteration-count} ${8:direction};
+	animation: ${1:animation-name} ${4:duration}s ${5:timing-function} ${6:delay}s ${7:iteration-count} ${8:direction};
 }
 ]]></content>
 	<tabTrigger>zkeyframes</tabTrigger>

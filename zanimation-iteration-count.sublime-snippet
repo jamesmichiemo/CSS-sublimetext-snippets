@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-animation-iteration-count: ${1:infinite};
+-moz-animation-iteration-count: ${1:infinite};
+animation-iteration-count: ${1:infinite};  
+]]></content>
+	<tabTrigger>zanimation-iteration-count</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

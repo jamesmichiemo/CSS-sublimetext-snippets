@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-animation-delay: ${8:1}s;
+moz-animation-delay: ${8:1}s;
+animation-delay: ${8:1}s;  
+]]></content>
+	<tabTrigger>zanimation-delay</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
