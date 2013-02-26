@@ -59,4 +59,4 @@ MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.o
 
 ## Author
 
-| GitHub: [jamesmichiemo](http://github.com/omeichim) | Twitter: [@omeichim](http://twitter.com/omeichim) | 
+| GitHub: [jamesmichiemo](http://github.com/jamesmichiemo) | Twitter: [@omeichim](http://twitter.com/omeichim) | 
