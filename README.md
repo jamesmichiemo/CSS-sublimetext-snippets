@@ -17,7 +17,14 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 
 * [z@font-face](https://developer.mozilla.org/en-US/docs/CSS/@font-face)
 * [zabsolute-center_background](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
-* [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/) 
+* [zabsolute-center_img](http://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/)
+* [zanimation-delay](https://developer.mozilla.org/en-US/docs/CSS/animation-delay)
+* [zanimation-direction](https://developer.mozilla.org/en-US/docs/CSS/animation-direction)
+* [zanimation-duration](https://developer.mozilla.org/en-US/docs/CSS/animation-duration)
+* [zanimation-iteration-count](https://developer.mozilla.org/en-US/docs/CSS/animation-iteration-count)
+* [zanimation-name](https://developer.mozilla.org/en-US/docs/CSS/animation-name)
+* [zanimation](https://developer.mozilla.org/en-US/docs/CSS/animation)
+* [zanimation-timing-function](https://developer.mozilla.org/en-US/docs/CSS/animation-timing-function) 
 * [zbackground](https://developer.mozilla.org/en-US/docs/CSS/background)
 * zbackground-clip
 * zbackground-origin
@@ -52,4 +59,4 @@ MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.o
 
 ## Author
 
-| GitHub: [omeichim](http://github.com/omeichim) | Twitter: [@omeichim](http://twitter.com/omeichim) | 
+| GitHub: [jamesmichiemo](http://github.com/omeichim) | Twitter: [@omeichim](http://twitter.com/omeichim) | 

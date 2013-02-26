@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[-webkit-animation: ${1:animation-name} ${2:duration}s ${3:timing-function} ${4:delay}s ${5:iteration-count} ${6:direction};
+-moz-animation: ${1:animation-name} ${2:duration}s ${3:timing-function} ${4:delay}s ${5:iteration-count} ${6:direction};
+animation: ${1:animation-name} ${2:duration}s ${3:timing-function} ${4:delay}s ${5:iteration-count} ${6:direction};  
+]]></content>
+	<tabTrigger>zanimation</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
