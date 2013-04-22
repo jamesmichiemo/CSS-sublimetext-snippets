@@ -38,6 +38,7 @@ The following commands will activate with the use of the <kbd>Tab</kbd> button. 
 * zbox-reflect
 * zbox-shadow
 * [zhiding](http://css-tricks.com/snippets/css/accessibilityseo-friendly-css-hiding/)
+* [zhelvetica](http://css-tricks.com/snippets/css/better-helvetica/)
 * [zkeyframes](https://developer.mozilla.org/en-US/docs/CSS/@keyframes)
 * zlinear-gradient
 * [zlink-rollover](http://css-tricks.com/snippets/css/basic-link-rollover-as-css-sprite/)
