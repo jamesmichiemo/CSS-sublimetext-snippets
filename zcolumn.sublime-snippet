@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[-webkit-column-count: ${1:};
+-moz-column-count: ${1:};
+column-count: ${1:};
+-webkit-column-width: ${2:}px;
+-moz-column-width: ${2:}px;
+column-width: ${2:}px;
+-webkit-column-gap: ${3:}px;
+-moz-column-gap: ${3:}px;
+column-gap: ${3:}px;
+-webkit-column-rule:${4:}px ${5:solid} #${6:000};
+-moz-column-rule:${4:}px ${5:solid} #${6:000};
+column-rule:${4:}px ${5:solid} #${6:000};
+]]></content>
+	<tabTrigger>zcolumn</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>

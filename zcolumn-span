@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[-webkit-column-span: all;
+]]></content>
+	<tabTrigger>zcolumn-span</tabTrigger>
+	<scope>text.html, source.css, source.less, source.scss, source.stylus</scope>
+</snippet>
